@@ -1,0 +1,14 @@
+.head,
+.headtwo {
+    color: navy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.head {
+    font-weight: bold;
+    text-align: center;
+}
+
+.basic {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
