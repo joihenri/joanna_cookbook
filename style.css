@@ -1,3 +1,7 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .head,
 .headtwo {
     color: navy;
@@ -9,6 +13,3 @@
     text-align: center;
 }
 
-.basic {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
